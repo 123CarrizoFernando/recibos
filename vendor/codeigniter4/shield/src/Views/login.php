@@ -8,8 +8,7 @@
     <div class="card col-12 col-md-5 shadow-sm">
         
         <center>
-        <!--<a class="navbar-brand" href="http://localhost/recibos/public/">-->
-        <a class="navbar-brand" href="https://recibos.tartagal.gob.ar/">
+          <a class="navbar-brand" href="http://localhost/recibos/public/">-->
           <img src="img/logomuni.jpg" alt="Descripción de la imagen">
         </a>
         </center>

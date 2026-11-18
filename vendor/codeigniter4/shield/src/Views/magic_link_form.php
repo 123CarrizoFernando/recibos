@@ -41,7 +41,7 @@
 
             </form>
 
-            <p class="text-center"><a href="https://recibos.tartagal.gob.ar/login"><?= lang('Auth.backToLogin') ?></a></p>
+            <p class="text-center"><a href="http://localhost:8080/login"><?= lang('Auth.backToLogin') ?></a></p>
         </div>
     </div>
 </div>
